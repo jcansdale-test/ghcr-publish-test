@@ -1,4 +1,4 @@
 # ghcr.io publish
 Test publishing an image to ghcr.io.
 
-update
+update2
